@@ -70,7 +70,7 @@ Estimating the cost of global warming, Michael Greenstone, 3M Professor of Envir
 {{< tdopen >}}
 
 
-Congressional Budget Office. "How Policies to Reduce Greenhouse Gas Emissions Could Affect Employment." May 5, 2010. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.cbo.gov/ftpdocs/105xx/doc10564/05-05-CapAndTrade_Brief.pdf))
+Congressional Budget Office. "How Policies to Reduce Greenhouse Gas Emissions Could Affect Employment." May 5, 2010. ([PDF](http://www.cbo.gov/ftpdocs/105xx/doc10564/05-05-CapAndTrade_Brief.pdf))
 
 [Econ 101: Carbon Tax vs. Cap-and-Trade](http://www.env-econ.net/carbon_tax_vs_capandtrade.html). Environmental Economics: Economists on Environmental and Natural Resources.
 
@@ -152,7 +152,7 @@ Location, economic development, and the canonical urban problem, cont.
 
 Glaeser, Edward L., and Matthew E. Kahn. "[The Greenness of Cities: Carbon Dioxide Emissions and Urban Development](http://www.nber.org/papers/w14238)." NBER Working Paper No. 14238. August 2008.
 
-Glaeser, Edward L., and Albert Saiz. "The Rise of the Skilled City." NBER Working Paper No. 10191. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.nber.org/papers/w10191.pdf))
+Glaeser, Edward L., and Albert Saiz. "The Rise of the Skilled City." NBER Working Paper No. 10191. ([PDF](http://www.nber.org/papers/w10191.pdf))
 
 
 {{< tdclose >}}
